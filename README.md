@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Miguel Felipe Linares Riaño</h1>
 
-<h3 align="center">Desarrollador Junior | Full Stack | React · Node.js · MySQL</h3>
+<h3 align="center">Desarrollador | Full Stack | React · Node.js · MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+Full+Stack;React+%7C+Node.js+%7C+Express+%7C+MySQL;Apasionado+por+construir+soluciones+web;Aprendizaje+continuo+y+trabajo+en+equipo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;React+%7C+Node.js+%7C+Express+%7C+MySQL;Apasionado+por+construir+soluciones+web;Aprendizaje+continuo+y+trabajo+en+equipo" alt="Typing SVG" />
 </p>
 
 <p align="center">
