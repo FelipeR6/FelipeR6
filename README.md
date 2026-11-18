@@ -1,4 +1,3 @@
-# miguel-lineres
 <h1 align="center">¡Hola! 👋 Soy Miguel Felipe Linares Riaño</h1>
 
 <h3 align="center">Desarrollador Junior | Full Stack | React · Node.js · MySQL</h3>
